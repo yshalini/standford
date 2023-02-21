@@ -1,0 +1,92 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E122" />
+          <option value="E303" />
+          <option value="E225" />
+          <option value="E501" />
+          <option value="E117" />
+          <option value="E302" />
+          <option value="W605" />
+          <option value="E231" />
+          <option value="W292" />
+          <option value="E402" />
+          <option value="E301" />
+          <option value="E111" />
+          <option value="E304" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N812" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.KMeans" />
+          <option value="main.filename" />
+          <option value="Main.PassangerDetails.Main" />
+          <option value="Main.CancellationandRefund.mysql" />
+          <option value="pythonjson.bigmartsale_string" />
+          <option value="jsonex2.page" />
+          <option value="jsonex2.var" />
+          <option value="jsonex2.true" />
+          <option value="jsonex2.define" />
+          <option value="jsonex2.details" />
+          <option value="utils" />
+          <option value="Main.__init__" />
+          <option value="jsonvalidation.request" />
+          <option value="jsonvalidation.pd" />
+          <option value="jsonvalidation.data" />
+          <option value="jsonvalidation.jsonify" />
+          <option value="jsonvalidation.*" />
+          <option value="Main.connection.my_cursor" />
+          <option value="Main.Connection" />
+          <option value="functions.phno" />
+          <option value="functions.*" />
+          <option value="ChildImpl.pythontesting" />
+          <option value="ChildImpl.shalini" />
+          <option value="chromedemo5.*" />
+          <option value="list.click" />
+          <option value="list.send_keys" />
+          <option value="alterts.alterttext" />
+          <option value="tests.test_etn.*" />
+          <option value="utilities.BaseClass" />
+          <option value="utilies.*" />
+          <option value="checkoutpage.pageObjects" />
+          <option value="HomePage.pageObjects" />
+          <option value="checkoutpage.ConfirmPage" />
+          <option value="pageObjects.*" />
+          <option value="PythonSelFramework.tests.test_e2e.pageObjects" />
+          <option value="PythonSelFramework.tests.test_HomePage.pageObjects" />
+          <option value="PythonSelFramework.tests.test_HomePage.utilities" />
+          <option value="PythonSelFramework.tests.test_HomePage.TestData" />
+          <option value="PythonSelFramework.pageObjects.HomePage.pageObjects" />
+          <option value="PythonSelFramework.tests.test_e2e.utilities" />
+          <option value="PythonSelFramework.tests.test_e2e.*" />
+          <option value="TestData.HomePageData.test_HomePage_data" />
+          <option value="PythonSelFramework.pageObjects.CheckoutPage.pageObjects" />
+          <option value="PythonSelFramework.pageObjects.HomePage.CheckOutPage" />
+          <option value="testcases.conftest.webdriver_manager" />
+          <option value="testcases.conftest.get" />
+          <option value="testcases.conftest.browser" />
+          <option value="chromedriver.driver" />
+          <option value="selenium.webdriver.chrome.webdriver.WebDriver.find_element_by_id" />
+          <option value="selenium.webdriver.chrome.webdriver.WebDriver.find_element_by_xpath" />
+          <option value="selenium.webdriver.chrome.webdriver.WebDriver.find_element_by_class_name" />
+          <option value="chromedemo3.afternoon" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
